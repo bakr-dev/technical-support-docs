@@ -79,3 +79,14 @@
     >
   </h3>
   <hr />
+
+    <h3>
+    You can read this readme file as HTML Template from here:
+    <a
+      target="_blank"
+      href="https://bakrcode.github.io/technical-support-docs/"
+      >Network Setup and Troubleshooting</a
+    >
+  </h3>
+
+    <hr />

@@ -80,7 +80,7 @@
   </h3>
   <hr />
   <h3>
-    You can view this readme file with embedded PDF files and videos directly from this page:
+    You can view this readme file with embedded PDF files and Videos directly from this page:
     <a
       target="_blank"
       href="https://bakrcode.github.io/technical-support-docs/"

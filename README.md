@@ -83,7 +83,7 @@
     You can view this readme file with embedded PDF files and Videos directly from this page:
     <a
       target="_blank"
-      href="https://bakrcode.github.io/technical-support-docs/"
+      href="https://bakr-dev.github.io/technical-support-docs/"
       >github host</a
     >
   </h3>
